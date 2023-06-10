@@ -70,3 +70,5 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export BROWSER="/mnt/c/Program Files/Mozilla Firefox/firefox.exe"
+export GH_BROWSER="'/mnt/c/Program Files/Mozilla Firefox/firefox.exe'"
